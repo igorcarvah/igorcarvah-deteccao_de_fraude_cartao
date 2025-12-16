@@ -1,1 +1,4 @@
-creditcardcsv
+data/
+*.zip
+*.csv
+.ipynb_checkpoints/
