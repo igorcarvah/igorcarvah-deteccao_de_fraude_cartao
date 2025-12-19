@@ -62,6 +62,10 @@ Utilizando **SHAP Values**, confirmamos que o modelo não é uma "caixa preta". 
 
 
 <img width="628" height="485" alt="Screenshot 2025-12-19 020953" src="https://github.com/user-attachments/assets/e9f9b09a-d5d3-443e-858e-537f47c391ee" />
+<img width="1111" height="375" alt="Screenshot 2025-12-19 021006" src="https://github.com/user-attachments/assets/0df7011a-4ba0-494f-b628-9da65046a665" />
+<img width="529" height="384" alt="Screenshot 2025-12-19 021021" src="https://github.com/user-attachments/assets/521c6cec-5d7d-4a56-b209-8118554463b1" />
+<img width="428" height="351" alt="Screenshot 2025-12-19 021033" src="https://github.com/user-attachments/assets/157af2f3-d348-4679-8472-443f8d73d7d2" />
+<img width="612" height="789" alt="Screenshot 2025-12-19 021049" src="https://github.com/user-attachments/assets/3d9a22a8-47dc-466a-90a8-0f9df64a2f29" />
 
 
 ---
