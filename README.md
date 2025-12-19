@@ -61,6 +61,9 @@ O modelo final (**Random Forest com Pesos Balanceados**) obteve performance supe
 Utilizando **SHAP Values**, confirmamos que o modelo não é uma "caixa preta". As variáveis que mais impactam a decisão do modelo (V17, V14) são as mesmas identificadas na análise exploratória estatística.
 
 
+<img width="628" height="485" alt="Screenshot 2025-12-19 020953" src="https://github.com/user-attachments/assets/e9f9b09a-d5d3-443e-858e-537f47c391ee" />
+
+
 ---
 
 ## 🛠️ Tecnologias
